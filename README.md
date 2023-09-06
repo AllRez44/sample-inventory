@@ -14,7 +14,7 @@
 3. **Usage**
     - ./vendor/bin/sail up -d
 <br>
-##### Now you're good to go :)
+<b>Now you're good to go :) </b>
  
 
 --- 
